@@ -1,0 +1,2 @@
+Metody w interfejsie s¹ zawsze publiczne, mo¿emy zawieraæ wiele interfejsów a kals tylko jed¹, 
+w kalsie mo¿na umieœciæ implementacjê a w interfejsie nie.
